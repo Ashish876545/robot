@@ -9,5 +9,5 @@ opening browser
     open browser   ${url}   ${browser}
 maximizing browser
     maximize browser window
-closing browser
-    close browser
+#closing browser
+  #  close browser
